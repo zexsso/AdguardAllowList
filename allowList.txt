@@ -2,10 +2,9 @@
 ! Title: zexsso's Allowlist
 ! Description: Personal allowlist to bypass blocking of useful domains in AdGuard Home.
 ! Author: zexsso
-! Version: 2025.03.23
 ! Last modified: 23 Mar 2025
 ! Expires: 1 day
-! Homepage: https://github.com/zexsso/your-repo-name
+! Homepage: https://github.com/zexsso/AdguardAllowList
 ! License: Public Domain
 ! Syntax: Adblock
 !
