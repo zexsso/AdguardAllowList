@@ -12,4 +12,3 @@
 ! Allow rules
 
 @@||googleadservices.com^
-@@||pagead2.googleadservices.com^
